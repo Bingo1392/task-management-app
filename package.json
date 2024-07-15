@@ -1,0 +1,12 @@
+{
+  "name": "task-management-app-monorepo",
+  "version": "1.0.0",
+  "description": "Small monorepo to learn some NestJS concepts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev-app": "cd task-management-app && pnpm run start:dev"
+  },
+  "keywords": ["task management app", "monorepo", "nestjs", "learning"],
+  "author": "Jan Žitník (mail@janzitnik.com)",
+  "license": "MIT"
+}
